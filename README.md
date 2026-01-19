@@ -100,7 +100,7 @@ Para conhecer mais sobre meu perfil profissional, acesse:
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzi-vitor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzi-Vitor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
