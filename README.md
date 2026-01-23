@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Azzi-Vitor">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=25F700&width=435&lines=Data+Analyst+%26+Web+Developer;Internet+Systems+Technology+student" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=25F700&width=435&lines=Data+Analyst+%26+Web+Developer;Internet+Systems+Technology+student)](https://git.io/typing-svg)  </a>
 </p>
 
 # 👨‍💻 Vítor Azzi
