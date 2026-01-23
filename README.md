@@ -22,44 +22,12 @@ My name is Vítor Nunes Azzi, I'm 21 years old and I'm Brazilian. I completed hi
 <p align="center">
 To learn more about my professional profile, visit:
 </p>
-*LinkedIn:* [Vítor Azzi](https://www.linkedin.com/in/v%C3%ADtor-azzi-597961399/)
 
-*Instagram:* [Azzi_Vitor](https://www.instagram.com/azzi_vitor)
-
-
-
-
- <!--🌐💬Social Media-->
-<table width="120" align="center">
-  <tr>  
-    <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/v%C3%ADtor-azzi-597961399/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://www.flaticon.com/free-icon/instagram_3955024?term=instagram&page=1&position=1&origin=tag&related_id=3955024" height="36" width="65"></a>
-    </td>
-    <td align="center" width="60">
-        <a href="https://www.linkedin.com/in/v%C3%ADtor-azzi-597961399/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-          <i class="fa-brands fa-linkedin"></i></a>   
-    </td>
-    </tr>
-</table>
-
-
-
-<p align="left">
-    <a href="https://github.com/Azzi-Vitor?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Azzi-Vitor?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Azzi-Vitor?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Azzi-Vitor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p>
+Linkedin: <a href="https://www.linkedin.com/in/v%C3%ADtor-azzi-597961399/">Vítor Azzi</a>
+Instagram: <a href="https://www.instagram.com/azzi_vitor">Azzi_Vitor</a>   
 </p>
+
 
 ---
 
