@@ -37,7 +37,7 @@ To learn more about my professional profile, visit:
     </td>
     <td align="center" width="60">
         <a href="https://www.linkedin.com/in/v%C3%ADtor-azzi-597961399/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-          <i class="fa-brands fa-linkedin"></a>   
+          <i class="fa-brands fa-linkedin"></i></a>   
     </td>
     </tr>
 </table>
