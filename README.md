@@ -15,40 +15,18 @@
   </a>
 </p>
 
+<p align="center">
+My name is Vítor Nunes Azzi, I'm 21 years old and I'm Brazilian. I completed high school at IFSUL with a technical degree in computer science. Currently, I am studying Internet Systems Technology at IFSUL. I am passionate about technology and programming.
+</p>
 
- <!--🌐💬Social Media-->
- 
-<table width="120" align="center">
-  <tr>  
-    <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/v%C3%ADtor-azzi-597961399/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
-    </td>
-    <td align="center" width="60">
-      <a href="mailto:azzivitorproifissional@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://https://drive.google.com/drive/u/4/home/view?usp=sharing"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
-    </td>
-
-  </tr>
-</table>
-
-
-
-
-
-# 👨‍💻 Vítor Azzi
-
-
-**`Desenvolvedor de Sistemas`**
-
-Me chamo Vítor Nunes Azzi, tenho 21 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFSUL, com o curso técnico em informática. Atualmente, estou cursando Tecnologia em Sistemas para Internet no IFSUL. Sou apaixonado por tecnologia e programação.
-
-Para conhecer mais sobre meu perfil profissional, acesse:
+<p align="center">
+To learn more about my professional profile, visit:
 
 *LinkedIn:* [Vítor Azzi](https://www.linkedin.com/in/v%C3%ADtor-azzi-597961399/)
 
 *Instagram:* [Azzi_Vitor](https://www.instagram.com/azzi_vitor)
+</p>
+
 
 <p align="left">
     <a href="https://github.com/Azzi-Vitor?tab=repositories&sort=stargazers">
