@@ -33,7 +33,7 @@ To learn more about my professional profile, visit:
 <table width="120" align="center">
   <tr>  
     <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/v%C3%ADtor-azzi-597961399/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
+      <a href="https://www.linkedin.com/in/v%C3%ADtor-azzi-597961399/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="[https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true](https://br.freepik.com/vetores-gratis/icone-do-instagram_954290.htm#fromView=keyword&page=1&position=0&uuid=091abf02-81c2-4a41-b8c7-9961e6844073&query=Instagram+png)" height="36" width="65"></a>
     </td>
     <td align="center" width="60">
         <a href="https://www.linkedin.com/in/v%C3%ADtor-azzi-597961399/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
