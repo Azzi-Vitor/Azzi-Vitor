@@ -3,10 +3,8 @@
 </a>
 
 <p align="center">
-  <a href=https://github.com/Azzi-Vitor>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&height=301&text=Hi!%20I'm%20Vítor&textBg=false&fontColor=32CD32&fontSize=90&fontAlign=50&animation=blinking&stroke=	F5F5F5&strokeWidth=2">
-  </a>
-</p>
+  <a href="https://github.com/Azzi-Vitor">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=27ae60&center=true&vCenter=true&random=false&width=435&lines=%Hi!+I'm+Vítor!"  alt="Typing SVG" align="center"  /></a>
 
 <p align="center">
   <a href="https://github.com/Azzi-Vitor">
