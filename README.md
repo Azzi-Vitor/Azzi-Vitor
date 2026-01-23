@@ -3,14 +3,14 @@
 </a>
 
 <p align="center">
-<a href="https://github.com/Azzi-Vitor">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3&pause=7&color=089A00&background=FFFFFF00&multiline=true&repeat=false&width=435&lines=Hi!+I'm+V%C3%ADtor" alt="Typing SVG" /></a>
+<a href="https://github.com/Azzi-Vitor" align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3&pause=7&color=089A00&background=FFFFFF00&multiline=true&repeat=false&width=435&lines=Hi!+I'm+V%C3%ADtor" alt="Typing SVG" align="center"/></a>
 </p>
 
 
 
 <p align="center">
-  <a href="https://github.com/Azzi-Vitor">
+  <a href="https://github.com/Azzi-Vitor" align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=25F700&width=435&lines=Data+Analyst+%26+Web+Developer;Internet+Systems+Technology+student" alt="Typing SVG" align="center"/>
   </a>
 </p>
