@@ -1,5 +1,5 @@
 <a href="https://github.com/Azzi-Vitor">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a8cff&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=90&section=header"/>
 </a>
 
 # 👨‍💻 Vítor Azzi
