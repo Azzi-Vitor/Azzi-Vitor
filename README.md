@@ -23,7 +23,7 @@ My name is Vítor Nunes Azzi, I'm 21 years old and I'm Brazilian. I completed hi
 To learn more about my professional profile, visit:
 </p>
 
-<p text-align="center">
+<p align="center">
 Linkedin: <a href="https://www.linkedin.com/in/v%C3%ADtor-azzi-597961399/">Vítor Azzi</a>
   <br>
 Instagram: <a href="https://www.instagram.com/azzi_vitor">Azzi_Vitor</a>   
