@@ -3,8 +3,11 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/Azzi-Vitor">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1&pause=10000000000000&color=27ae60&center=true&vCenter=true&random=false&width=435&lines=%Hi!+I'm+Vítor!"  alt="Typing SVG" align="center"  /></a>
+<a href="https://github.com/Azzi-Vitor">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3&pause=7&color=089A00&background=FFFFFF00&multiline=true&repeat=false&width=435&lines=Hi!+I'm+V%C3%ADtor" alt="Typing SVG" /></a>
+</p>
+
+
 
 <p align="center">
   <a href="https://github.com/Azzi-Vitor">
