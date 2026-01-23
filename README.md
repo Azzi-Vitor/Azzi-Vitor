@@ -8,7 +8,8 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
   <a href="[https://github.com/Azzi-Vitor">
-    <img src="https://readme-typing-svg.demolab.com?lines=Full-Stack%20Web%20And%20App%20Developer;Future%20Cyber%20Security%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=22&center=true&vCenter=true&width=440&height=45&color=f75c7e&pause=1000" align="center" /></a>
+    <img src="https://readme-typing-svg.demolab.com/demo/?weight=900&size=30&color=25F700&lines=Data+Analyst+%26+Web+Developer;Internet+Systems+Technology+student align="center" />
+  </a>
 </p>
 
 # 👨‍💻 Vítor Azzi
