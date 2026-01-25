@@ -2,15 +2,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=130&section=header"/>
 </a>
 
-<!-- TÍTULO -->
-<p align="center">
-  <a href="https://github.com/Azzi-Vitor">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=800&color=089A00&center=true&vCenter=true&multiline=true&repeat=false&width=500&lines=Hi!+I'm+Vítor+Azzi" 
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+<!-- TÍTULO ANIMADO --> 
+<p align="center">   
+  <a href="https://github.com/Azzi-Vitor"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2000&pause=800&color=089A00&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi!+I'm+V%C3%ADtor" alt="Typing SVG" /> </a> </p>
 
 <!-- SUBTÍTULO -->
 <p align="center">
