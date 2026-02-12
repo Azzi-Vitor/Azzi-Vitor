@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/Azzi-Vitor">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1200&color=25F700&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+Data+Analyst+%7C+ML+Enthusiast" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1200&color=25F700&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+Data+Analyst+%7C+AI+Developer" 
       alt="Typing SVG"
     />
   </a>
@@ -22,11 +22,11 @@
 <!-- BADGES/SHIELDS -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0d1117" />
 </p>
 
@@ -35,16 +35,15 @@
   <img src="https://komarev.com/ghpvc/?username=Azzi-Vitor&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-<!-- SOBRE - FOCO EM DATA SCIENCE -->
+<!-- SOBRE -->
 <p align="center">
-  I'm <strong>Vítor Nunes Azzi</strong>, a <strong>21-year-old Brazilian Data Scientist & Analyst</strong> passionate about turning complex data into actionable insights and intelligent solutions.<br><br>
+  I'm <strong>Vítor Nunes Azzi</strong>, a <strong>21-year-old Brazilian Data Scientist & Analyst</strong> passionate about transforming data into intelligent solutions.<br><br>
   
   🎓 Technical degree in <strong>Computer Science</strong> from <strong>IFSUL</strong><br>
-  📚 Currently studying <strong>Internet Systems Technology</strong> at IFSUL<br>
-  🧠 Focused on <strong>Machine Learning</strong>, <strong>Predictive Analytics</strong> and <strong>Data Visualization</strong><br><br>
+  📚 Currently studying <strong>Internet Systems Technology</strong> at IFSUL<br><br>
   
-  I combine <strong>statistical analysis</strong>, <strong>programming</strong> and <strong>business intelligence</strong> to solve real-world problems.<br>
-  From raw data to ML models — I build end-to-end data solutions that drive decision-making.
+  I build <strong>end-to-end data solutions</strong> — from data cleaning and visualization to machine learning models and AI applications.<br>
+  My focus is on creating <strong>actionable insights</strong> that drive business decisions through data storytelling.
 </p>
 
 <!-- CONTATO -->
@@ -66,35 +65,41 @@
 
 ---
 
-<!-- STACK DE DATA SCIENCE -->
-<h3 align="center">🧬 Data Science Stack</h3>
+<!-- STACK TÉCNICO REAL -->
+<h3 align="center">🛠️ Technologies & Tools I Use</h3>
 
 <p align="center">
-  <img width="45" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img width="45" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
-  <img width="45" title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
-  <img width="45" title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
-  <img width="45" title="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
-  <img width="45" title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
-  <img width="45" title="Keras" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"/>
-  <img width="45" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-  <img width="45" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-  <img width="45" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-  <img width="45" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <!-- Core Data Science -->
+  <img width="42" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img width="42" title="Jupyter Notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
+  <img width="42" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+  <img width="42" title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
+  <img width="42" title="Plotly" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
+  
+  <!-- Database & BI -->
+  <img width="42" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img width="42" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  
+  <!-- Web & Others -->
+  <img width="42" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img width="42" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img width="42" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img width="42" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 </p>
 
 <p align="center">
-  <em>Data Wrangling • EDA • Statistical Modeling • Machine Learning • Deep Learning • Data Visualization • MLOps</em>
+  <em>Data Analysis • Machine Learning • Data Visualization • Business Intelligence • Database Management • Web Development</em>
 </p>
 
 ---
 
-<!-- GRÁFICO DE ATIVIDADE (substitui a cobrinha) -->
+<!-- GRÁFICO DE ATIVIDADE -->
 <h3 align="center">🔥 Contribution Activity</h3>
 
 [![Vítor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Azzi-Vitor&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
 
 
 <a href="https://github.com/Azzi-Vitor">
