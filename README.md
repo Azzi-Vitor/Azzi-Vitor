@@ -96,23 +96,7 @@
 
 ---
 
-<!-- PROJETOS EM DESTAQUE -->
-<h3 align="center">📂 Featured Data Projects</h3>
 
-<p align="center">
-  <a href="https://github.com/Azzi-Vitor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Azzi-Vitor&repo=NOME_DO_REPO_1&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/Azzi-Vitor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Azzi-Vitor&repo=NOME_DO_REPO_2&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" />
-  </a>
-</p>
-
-<p align="center">
-  <em>⚠️ Substitua NOME_DO_REPO_1 e NOME_DO_REPO_2 pelos seus melhores projetos de Data Science!</em>
-</p>
-
----
 
 <a href="https://github.com/Azzi-Vitor">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
