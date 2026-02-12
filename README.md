@@ -43,7 +43,6 @@
   📚 Currently studying <strong>Internet Systems Technology</strong> at IFSUL<br><br>
   
   I build <strong>end-to-end data solutions</strong> — from data cleaning and visualization to machine learning models that predict outcomes and automate decisions.<br>
-  My expertise includes <strong>credit scoring models</strong>, <strong>customer churn analysis</strong>, and <strong>AI-powered chatbots</strong>.
 </p>
 
 <!-- CONTATO -->
