@@ -63,28 +63,6 @@
 
 ---
 
-<!-- GITHUB TROPHY -->
-<h3 align="center">🏆 GitHub Achievements</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Azzi-Vitor&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
-
-<!-- ESTATÍSTICAS DO GITHUB -->
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azzi-Vitor&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzi-Vitor&layout=compact&langs_count=8&theme=merko&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azzi-Vitor&theme=merko&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF00&sideLabels=00FF00&dates=ffffff" />
-</p>
-
----
-
 <!-- TECNOLOGIAS DETALHADAS -->
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
