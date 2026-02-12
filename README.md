@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/Azzi-Vitor">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1200&color=25F700&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+Data+Analyst+%7C+Python+Developer" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1200&color=25F700&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+Data+Analyst+%7C+ML+Engineer" 
       alt="Typing SVG"
     />
   </a>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0d1117" />
@@ -42,8 +42,8 @@
   🎓 Technical degree in <strong>Computer Science</strong> from <strong>IFSUL</strong><br>
   📚 Currently studying <strong>Internet Systems Technology</strong> at IFSUL<br><br>
   
-  I build <strong>end-to-end data solutions</strong> — from data cleaning and visualization to machine learning models and AI applications.<br>
-  My focus is on creating <strong>actionable insights</strong> that drive business decisions through data storytelling.
+  I build <strong>end-to-end data solutions</strong> — from data cleaning and visualization to machine learning models that predict outcomes and automate decisions.<br>
+  My expertise includes <strong>credit scoring models</strong>, <strong>customer churn analysis</strong>, and <strong>AI-powered chatbots</strong>.
 </p>
 
 <!-- CONTATO -->
@@ -65,22 +65,23 @@
 
 ---
 
-<!-- STACK TÉCNICO REAL -->
-<h3 align="center">🛠️ Technologies & Tools I Use</h3>
+<!-- STACK TÉCNICO -->
+<h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
-  <!-- Core Data Science -->
+  <!-- Data Science & ML -->
   <img width="42" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img width="42" title="Jupyter Notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
   <img width="42" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
   <img width="42" title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
+  <img width="42" title="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
   <img width="42" title="Plotly" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
   
   <!-- Database & BI -->
   <img width="42" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img width="42" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   
-  <!-- Web & Others -->
+  <!-- Web & Tools -->
   <img width="42" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img width="42" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img width="42" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
@@ -88,7 +89,7 @@
 </p>
 
 <p align="center">
-  <em>Data Analysis • Machine Learning • Data Visualization • Business Intelligence • Database Management • Web Development</em>
+  <em>Machine Learning • Random Forest • KNN • Data Preprocessing • Predictive Modeling • Data Visualization • SQL • Business Intelligence</em>
 </p>
 
 ---
@@ -99,7 +100,6 @@
 [![Vítor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Azzi-Vitor&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
 
 
 <a href="https://github.com/Azzi-Vitor">
