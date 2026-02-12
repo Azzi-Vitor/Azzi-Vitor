@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/Azzi-Vitor">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1200&color=25F700&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+Data+Analyst+%7C+AI+Developer" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1200&color=25F700&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+Data+Analyst+%7C+Python+Developer" 
       alt="Typing SVG"
     />
   </a>
